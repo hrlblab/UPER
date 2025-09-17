@@ -20,4 +20,3 @@ python main.py \
         --mask_ratio=0.125 \
         --run_name='mae3d'
 ```
->>>>>>> 5e9e6e4 (Initial commit)
