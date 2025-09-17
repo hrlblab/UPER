@@ -1,8 +1,6 @@
 <<<<<<< HEAD
 # UPER
 UPER: A Unified Polyhedral Representation for Universal Multi-dimensional Diffusion MRI Image Modeling
-=======
-# SelfMedMAE: Self Pre-training with Masked Autoencoders for Medical Image Analysis
 
 ### Necessary Packages and Versions
 ```
